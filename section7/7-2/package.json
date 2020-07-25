@@ -1,0 +1,16 @@
+{
+  "name": "lecture034",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "author": "Yusuke Ebihara",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.1"
+  }
+}

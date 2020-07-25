@@ -1,0 +1,12 @@
+{
+  "name": "@yebi/test_20200720",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuke Ebihara",
+  "license": "MIT",
+  "private": false
+}
